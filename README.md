@@ -2,7 +2,7 @@
 ### Hey there!  ✌️
 ##  Im Markkus, QA Engineer with more than 2 years of exp in WEB2/WEB3 projects on mobile and web apps. Well prepared team players with excellent communication skills and technical background. I have an exp at QA/QC QA-manager roles on Outsource/Product projects with mostly Scrumban methodology. Knowledge - is power !
   
-## My LinkedIn - [Link to my LinkedIn](https://www.linkedin.com/in/markkuskarner/)
+## My LinkedIn (https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2) - [Link to my LinkedIn](https://www.linkedin.com/in/markkuskarner/)
 
 ### Languages and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
