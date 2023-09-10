@@ -20,7 +20,7 @@
 ![Header](https://img.shields.io/badge/VScode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Header](https://img.shields.io/badge/Brevo-090909?style=for-the-badge&logo=Brevo&logoColor=0B996E)
 ![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=172B4D)
-![Header}(https://img.shields.io/badge/charlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=#172B4D)
+![Header](https://img.shields.io/badge/charlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=#172B4D)
 ![Header](https://img.shields.io/badge/TestFlight-090909?style=for-the-badge&logo=TestFlight&logoColor=#172B4D)
 ----
 <3/
