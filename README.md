@@ -11,8 +11,10 @@
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
+![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=TestRail&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=Xcode&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)
+![Header](
 ----
 /<3/ 
