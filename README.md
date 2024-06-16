@@ -34,6 +34,6 @@ I've worked with following domains:
 ![Header](https://img.shields.io/badge/ArgoCD-090909?style=for-the-badge&logo=ArgoCD&logoColor=#172B4D)
 ![Header](https://img.shields.io/badge/pgAdmin-090909?style=for-the-badge&logo=pgAdmin&logoColor=#172B4D)
 ![Header](https://img.shields.io/badge/BrowserStack-090909?style=for-the-badge&logo=BrowserStack&logoColor=#172B4D)
-![Header](https://img.shields.io/badge/OpenSearch-090909?style=for-the-badge&logo=OpenSearch&logoColor=#172B4D)
+![Header](https://img.shields.io/badge/xRay-090909?style=for-the-badge&logo=xRay&logoColor=#172B4D)
 ----
 <3/
