@@ -1,6 +1,13 @@
 
 ### Hey there!  ✌️
-##  Im Markkus, QA Engineer with more than 2 years of exp in WEB2/WEB3 projects on mobile and web apps. Well prepared team players with excellent communication skills and technical background. I have an exp at QA/QC QA-manager roles on Outsource/Product projects with mostly Scrumban methodology. Knowledge - is power !
+##  Hi! My name is Markkus, I'm a QA specialist with an excellent communication skills.
+I got more than 3 year of exp as QA engineer in Product, Outsourse and Outstaff projects, as manual QA, QA Lead and techincal interviewer
+I've worked with following domains:
+-Gambling
+-Gamedev
+-Healthcare
+-Crypto/blockchain
+-Edtech
   
 ## [Linkedin](https://www.linkedin.com/in/markkuskarner/)
 
