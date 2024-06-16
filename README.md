@@ -29,5 +29,11 @@ I've worked with following domains:
 ![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=172B4D)
 ![Header](https://img.shields.io/badge/charlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=#172B4D)
 ![Header](https://img.shields.io/badge/TestFlight-090909?style=for-the-badge&logo=TestFlight&logoColor=#172B4D)
+![Header](https://img.shields.io/badge/OpenSearch-090909?style=for-the-badge&logo=OpenSearch&logoColor=#172B4D)
+![Header](https://img.shields.io/badge/Kafka-090909?style=for-the-badge&logo=Kafka&logoColor=#172B4D)
+![Header](https://img.shields.io/badge/ArgoCD-090909?style=for-the-badge&logo=ArgoCD&logoColor=#172B4D)
+![Header](https://img.shields.io/badge/pgAdmin-090909?style=for-the-badge&logo=pgAdmin&logoColor=#172B4D)
+![Header](https://img.shields.io/badge/BrowserStack-090909?style=for-the-badge&logo=BrowserStack&logoColor=#172B4D)
+![Header](https://img.shields.io/badge/OpenSearch-090909?style=for-the-badge&logo=OpenSearch&logoColor=#172B4D)
 ----
 <3/
