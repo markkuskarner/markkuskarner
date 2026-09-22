@@ -1,7 +1,7 @@
 
 ### Hey there!  ✌️
 ##  Hi! My name is Markkus, I'm a QA specialist with an excellent communication skills.
-I got more than 3.5 year of exp as QA engineer in Product, Outsourse and Outstaff projects, as manual QA, QA Lead and techincal interviewer
+I got more than 5 year of exp as QA engineer in Product, Outsourse and Outstaff projects, as manual QA, QA Lead and techincal interviewer
 I've worked with following domains:
 -Gambling
 -Fintech
